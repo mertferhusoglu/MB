@@ -110,4 +110,5 @@ DevTypes = reg_data.keys()
 print(DevTypes)
 print(reg_data[DevTypes[1]].keys())
 
+MERHABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 '''
